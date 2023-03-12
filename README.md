@@ -2,7 +2,8 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 
-<img align="right" alt ="coding" width="400" src=" https://miro.medium.com/freeze/fit/c/80/56/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt ="coding" width="400" src="![image](https://user-images.githubusercontent.com/83273924/224544244-f550ba75-6763-43d9-9aa6-1632fe811182.png)
+ ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckkumar2735&label=Profile%20views&color=0e75b6&style=flat" alt="ckkumar2735" /> </p>
 
